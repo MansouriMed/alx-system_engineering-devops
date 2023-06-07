@@ -1,1 +1,1 @@
-This reposatory for shell 
+scripts shell 
